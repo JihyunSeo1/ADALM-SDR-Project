@@ -1,5 +1,11 @@
 # Wireless Communication SDR Project
 
+## Contact
+
+- **Email**: [jihyun4@illinois.edu](mailto\:seo57@illinois.edu)
+- **YouTube**: [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@jihyunseo6445)
+
+
 Welcome to the **Wireless Communication SDR Project** repository! This repository contains all the codes and implementations related to my work on Software Defined Radio (SDR), focusing on synchronization, modulation techniques, and signal processing.
 
 ## Project Overview
@@ -28,10 +34,4 @@ Ensure you have the following installed:
 
 
 
-## Contact
-
-For any inquiries or discussions, feel free to reach out:
-
-- **Email**: [seo57@illinois.edu](mailto\:seo57@illinois.edu)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 
