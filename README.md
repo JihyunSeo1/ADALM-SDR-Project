@@ -1,15 +1,37 @@
-Wireless Communication SDR Project
+# Wireless Communication SDR Project
 
-Welcome to the Wireless Communication SDR Project repository! This repository contains all the codes and implementations related to my work on Software Defined Radio (SDR), focusing on synchronization, modulation techniques, and signal processing.
+Welcome to the **Wireless Communication SDR Project** repository! This repository contains all the codes and implementations related to my work on Software Defined Radio (SDR), focusing on synchronization, modulation techniques, and signal processing.
 
-Project Overview
+## Project Overview
 
-This project explores various wireless communication concepts using PlutoSDR and other DSP techniques. Key areas covered include:
+This project explores various wireless communication concepts using **PlutoSDR** and other DSP techniques. Key areas covered include:
 
-Frame Synchronization: Implementing self-reference frame synchronization using Barker sequences.
+- **Frame Synchronization**: Implementing self-reference frame synchronization using Barker sequences.
+- **Modulation Techniques**: BPSK modulation, pulse shaping using RRC filters, and upsampling.
+- **Error Correction Coding**: Exploring methods for improving transmission reliability.
+- **Image Transmission **: Transmitting raw image files over SDR while ensuring accurate reception.
 
-Modulation Techniques: BPSK modulation, pulse shaping using RRC filters, and upsampling.
 
-Error Correction Coding: Exploring methods for improving transmission reliability.
+## Getting Started
 
-Music File Transmission: Transmitting raw audio files over SDR while ensuring accurate reception.
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Python 3.x
+- NumPy, SciPy, Matplotlib
+- GNU Radio (optional, for further SDR experiments)
+- PlutoSDR drivers and libraries
+
+### Running the Code
+
+
+
+
+## Contact
+
+For any inquiries or discussions, feel free to reach out:
+
+- **Email**: [seo57@illinois.edu](mailto\:seo57@illinois.edu)
+- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+
